@@ -8,5 +8,5 @@ Lab 2 consists of applied video technology for sports. It has 3 parts:
 - Part C: homography
 
 The code is in python uses jupyter notebook as a facilitator for teaching.  
-Instructions can be found on [the .docx](https://github.com/MariahSabioni/python_video_sports/blob/master/Assignment2-video-lab-instructionsHT23.pdf).  
+Instructions can be found [here](https://github.com/MariahSabioni/python_video_sports/blob/master/Assignment2-video-lab-instructionsHT23.pdf).  
 Please note that the code has been inspired by several tutorials available on the internet. References can be found in the code.
