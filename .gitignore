@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# You shall not pass
+/solved
+
+# Slides
+lab2-slide.key
+
+# zip files
+/video-lab-files/
+video-lab-files.zip
